@@ -1,2 +1,3 @@
 1st line added in the local repo master
 2nd line added in the local b1
+3rd line added to the github.com branch b1
